@@ -1,1 +1,2 @@
 # Model_Information_Supplementary_Material
+Structure and APDYBRB Parameter Information
